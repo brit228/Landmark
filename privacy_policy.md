@@ -1,12 +1,15 @@
-Privacy Notice
+# Privacy Notice
+
 This privacy notice discloses the privacy practices for Landmark. This privacy notice applies solely to information collected by this 
 website. It will notify you of the following:
 
-What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
-What choices are available to you regarding the use of your data.
-The security procedures in place to protect the misuse of your information.
-How you can correct any inaccuracies in the information.
-Information Collection, Use, and Sharing 
+- What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+- What choices are available to you regarding the use of your data.
+- The security procedures in place to protect the misuse of your information.
+- How you can correct any inaccuracies in the information.
+
+## Information Collection, Use, and Sharing
+
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give 
 us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
@@ -16,7 +19,8 @@ party outside of our organization, other than as necessary to fulfill your reque
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to 
 this privacy policy.
 
-Your Access to and Control Over Information 
+## Your Access to and Control Over Information
+
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address 
 or phone number given on our website:
 
@@ -25,7 +29,8 @@ or phone number given on our website:
 - Have us delete any data we have about you.
 - Express any concern you have about our use of your data.
 
-Security 
+## Security
+
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected 
 both online and offline.
 
